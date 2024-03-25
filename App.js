@@ -98,7 +98,7 @@ export default function App() {
         <RestaurantContext.Provider value={{ restaurantObj, setRestaurantObj }}>
           <LoginContext.Provider value={{ login, setLogin }}>
             <CartCountContext.Provider value={{ cartCount, setCartCount }}>
-              <StripeProvider publishableKey="pk_test_51OxUoUSGkvpqudos5c0MtAnvmFPK3dw4TRHDArpWB4XoesApWRbUBiPVzYwzHnNCKnB8D3hqeBaKOcsdsl6t8vyA00rZd66yaQ">
+              <StripeProvider publishableKey="">
                 <NavigationContainer>
                   <Stack.Navigator>
                     <Stack.Screen
