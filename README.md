@@ -23,7 +23,6 @@ https://abhishek.pro/
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 ![App Screenshot](https://github.com/abhishekpanwarrr/react-native-foody-app/assets/40629087/ab926b61-3abf-4fae-ba58-9f115d877294)
 ![App Screenshot](https://github.com/abhishekpanwarrr/react-native-foody-app/assets/40629087/7e1733e0-1262-422b-9520-e0fea1563371)
 ![App Screenshot](https://github.com/abhishekpanwarrr/react-native-foody-app/assets/40629087/b85a8de0-1020-4a8d-8349-2752eba2c9f3)
